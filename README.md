@@ -18,8 +18,7 @@
 
 ### What benefits come with using GIT?
 
-    - One of the biggest advantages of Git is its branching capabilities. Unlike centralized version control systems, Git branches are cheap and easy to merge. This facilitates the feature branch workflow popular with many Git users. Feature branches provide an isolated environment for every change to your codebase.
-
+- One of the biggest advantages of Git is its branching capabilities. Unlike centralized version control system, Git branchhes are cheap and easy to erge. This facilitates the feature branch workflow popular with many Git users 
 ### What is Git repository?
 
 - A Git repository is a central storage location for managing and tracking changes in files and directories. It is a crucial component of the Git version control system, which enables collaborative development and allows multiple developers to work on a project simultaneously
